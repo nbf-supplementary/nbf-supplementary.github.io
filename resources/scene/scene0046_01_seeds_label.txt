@@ -1,0 +1,14 @@
+predicted_masks/scene0046_01_000.txt 16 0.9684
+predicted_masks/scene0046_01_001.txt 28 0.9507
+predicted_masks/scene0046_01_002.txt 14 0.8983
+predicted_masks/scene0046_01_003.txt 33 0.4051
+predicted_masks/scene0046_01_004.txt 39 0.7097
+predicted_masks/scene0046_01_005.txt 4 0.8859
+predicted_masks/scene0046_01_006.txt 5 0.9385
+predicted_masks/scene0046_01_007.txt 36 0.9477
+predicted_masks/scene0046_01_008.txt 33 0.3506
+predicted_masks/scene0046_01_009.txt 8 0.9638
+predicted_masks/scene0046_01_010.txt 5 0.8539
+predicted_masks/scene0046_01_011.txt 8 0.8941
+predicted_masks/scene0046_01_012.txt 8 0.9634
+predicted_masks/scene0046_01_013.txt 39 0.8478
