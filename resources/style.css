@@ -18,10 +18,15 @@ body {
     justify-content: center;
 }
 
-/* .lil-gui {
-    --width: 300px;
-    --name-width: 20%;
-} */
+#load-warning {
+    color: red;
+    font-weight: bold;
+    font-size: 30pt;
+}
+
+.lil-gui {
+    --width: 500px;
+}
 
 .title {
     font-size: 36px;
